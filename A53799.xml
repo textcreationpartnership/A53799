@@ -1,0 +1,235 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Objections to Mr. Lowndes's proposal about the amendment of our coin·</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53799</idno>
+            <idno type="STC">Wing O88</idno>
+            <idno type="STC">ESTC R219022</idno>
+            <idno type="EEBO-CITATION">99830558</idno>
+            <idno type="PROQUEST">99830558</idno>
+            <idno type="VID">35011</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53799)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35011)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1838:08)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Objections to Mr. Lowndes's proposal about the amendment of our coin·</title>
+               </titleStmt>
+               <extent>[2], 11, 13-14, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Tho. Hodgkin, and are to be sold by John Whitlock, in Stationer's Court, near Amen-Corner,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The text and register are continuous, despite the pagination.</note>
+                  <note>A reply to William Lowndes's 'A report containing an essay for the amendment of the silver coins', London, 1695.</note>
+                  <note>Marginal notes.</note>
+                  <note>Reproduction of the original at the Glasgow University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lowndes, William, 1652-1724. --  Report containing an essay for the amenment of the silver coins --  Early works to 1800.</term>
+               <term>Coinage --  England --  Early works to 1800.</term>
+               <term>Coinage --  Economic aspects --  Early works to 1800.</term>
+               <term>Money --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35011:1"/>
+            <pb facs="tcp:35011:1" rendition="simple:additions"/>
+            <p>OBJECTIONS TO Mr. Lowndes's PROPOSAL About the AMENDMENT Of our COIN.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Tho. Hodgkin,</hi> and are to be ſold by <hi>John W<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#APEX" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>,</hi> in <hi>Stationer's Court,</hi> near <hi>Amen-Corner,</hi> 1695.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:35011:2"/>
+            <pb n="1" facs="tcp:35011:2"/>
+            <head>OBJECTIONS TO Mr. <hi>Lowndes</hi>'s Propoſal About the Amendment of our <hi>COIN.</hi>
+            </head>
+            <p>IT muſt be granted, that Mr. <hi>Lowndes</hi> hath with great Pains and Integrity given us a perfect Hiſtory of our Coin, and Standard, now eſtabliſhed for ſome Hundreds of Years paſt, the which is abſolutely neceſſary for all Perſons to underſtand that pretends with any manner of Judgment to correct or to propoſe Methods in or<g ref="char:EOLhyphen"/>der to the amendment thereof.</p>
+            <p>And it muſt alſo be agreed, that he hath pro<g ref="char:EOLhyphen"/>pos'd a very practicable Method in amending and exchanging the ſame, and that with as little Di<g ref="char:EOLhyphen"/>ſturbance or Confuſion as can be imagin'd; but yet I muſt diſſent from him in his Opinion, concerning raiſing the Value of our Mill'd-Mo<g ref="char:EOLhyphen"/>ney now in being; and from his Opinion in
+<pb n="2" facs="tcp:35011:3"/>
+making new Money ſo much leſs than Value, and odd Pieces; it is a Matter of a very weighty Conſideration, therefore I humbly crave Leave to offer ſome few Particulars.</p>
+            <p>Saith Mr. <hi>Lowndes,</hi> to this Effect, Silver is ad<g ref="char:EOLhyphen"/>vanc'd,<milestone type="tcpmilestone" unit="unspecified" n="I"/> and if we ſhould make our Money of full Value, it would yield more in the Bullion, than in Coin, wherefore it cannot otherwiſe be ima<g ref="char:EOLhyphen"/>gin'd, but 'twill be run down as faſt as it can be made, and that 'twould be difficult for any Law that can be made to ſecure it.</p>
+            <p>In Anſwer to which, conſider upon what Oc<g ref="char:EOLhyphen"/>caſion, Silver got up at this Rate; not ſo much through Scarcity, as upon the Report of a Com<g ref="char:EOLhyphen"/>mittee of the laſt Seſſions of Parliament, <hi>viz.</hi> That New Money ſhould be made of <hi>4s. 6d.</hi> Value, to go for <hi>5s.</hi> whereupon Silver preſently ad<g ref="char:EOLhyphen"/>vanc<g ref="char:punc">▪</g>d, and (as in moſt other Caſes) it run in extreams, 'till it had reach'd this Rate.</p>
+            <p>Now if you make our Money ſo much Leſs, what Aſſurance have you that Silver will not pre<g ref="char:EOLhyphen"/>ſently run up at yet a higher Rate, and I am very apt to believe it will; there being a Neceſ<g ref="char:EOLhyphen"/>ſity for ſo great a Quantity upon this Occaſion, and then you will be under the very ſame Circum<g ref="char:EOLhyphen"/>ſtances or rather worſe, for 'tis not ſo much the riſe of Silver as the diſrepute and under Value of
+<pb n="3" facs="tcp:35011:3"/>
+our Money in compariſon with other Commodi<g ref="char:EOLhyphen"/>ties that make the Difference, all Commodities be<g ref="char:EOLhyphen"/>ing much Dearer than heretofore.</p>
+            <p>I therefore rather propoſe that the Price of Sil<g ref="char:EOLhyphen"/>ver<g ref="char:punc">▪</g> be ſettled by Act of Parliament, to bear e<g ref="char:EOLhyphen"/>ven pace with our Coin, or ſomething under, that Perſons that have it may be incourag'd to bring it to the Mint, and a ſevere Prohibition againſt exporting it, for ſome ſmall Time till the Coin be amended.</p>
+            <p>My Second Objection, is, againſt making New <label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>2</label> odd Pieces of Money, becauſe, it will be very Difficult and Troubleſome, every Body knows how Troubleſome odd Moneys, <hi>viz. 13d. ob. 9d.</hi> and <hi>4d. ob.</hi> are to ſome People<g ref="char:punc">▪</g> I may ſay to moſt People. This will be a perpetual Vexation and Trouble to the Unskilful, and Illiterate, neither can it anſwer any End more than ſaving the re<g ref="char:EOLhyphen"/>coynage of what remains; and therefore if the Wiſdom of the King and Parliament ſhall think fit to alter the Standard, I rather propoſe that all be new coyn'd into Pounds, Shillings, and Pence, the extraordinary Charge will be very Inconſide<g ref="char:EOLhyphen"/>rable; the Wants of it during the Fabrication may be a little Inconvenience; but if ſo many Mints be ſet up, as propos'd, there will ſoon be a ſupply, and then we ſhall be freed from the Inconvenience for the time to come.</p>
+            <p>
+               <pb n="4" facs="tcp:35011:4"/>My third Objection is againſt the Propoſal of <label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>3</label> raiſing the Value of the old Mill'd Money, and making new Money leſs than Value, or ancient Stan<g ref="char:EOLhyphen"/>dard.</p>
+            <p>
+               <hi>I cannot ſee any great Difference between debaſing the</hi>
+               <note place="margin">Note.</note> 
+               <hi>Metal, which Mr.</hi> Lownds <hi>himſelf condemns, and ma<g ref="char:EOLhyphen"/>king it leſs; for in either Caſe you receive but ſo much Silver.</hi>
+            </p>
+            <p>The main Argument for the Affirmative ſeems to be of Silver being advanc'd; but I have anſwer'd that already.</p>
+            <p>Tho' ſetling the Price of Silver to bear Pace with our Coin may be ſome Loſs to ſome particular Men, it's not conſiderable in reſpect of the Publick.</p>
+            <p>1. Now the Reaſons for my Objection are theſe which I will endeavour to make good as I go, <hi>viz.</hi>
+            </p>
+            <p>If Money be made leſs, Silver will preſently ad<g ref="char:EOLhyphen"/>vance proportionably, the Reaſon is plain, <hi>viz.</hi> becauſe you may carry your Silver to the <hi>Mint</hi> and have ſo much Money made of it <hi>gratis.</hi> Exchanges and Re<g ref="char:EOLhyphen"/>mittances from abroad will anſwer the real Value of the Bullion and no otherwiſe, and the Prices of all Commodities will ſoon follow. As for Inſtance, the <hi>Danes</hi> and <hi>Swedes,</hi> as I am told, are great Exporters of our Bullion to balance their Trade: Now if you make Money leſs, and Silver becomes dearer, what you paid <hi>4s.</hi> for, you muſt then pay <hi>5s.</hi> So that it ſeems
+<pb n="5" facs="tcp:35011:4"/>
+to me a meer <hi>Chimera,</hi> and agrees only in Denomina<g ref="char:EOLhyphen"/>tion with 5s. whereas in all other Reſpects it anſwers no more than <hi>4s. viz.</hi> the real Value of the Bullion,—unleſs it be in Payment of Rents, Debts, and Con<g ref="char:EOLhyphen"/>tracts already executed, where in ſome Perſons will be cheated ſufficiently if this Project takes; as I will ſhew anon.</p>
+            <p>
+               <hi>'Tis not the Impreſſion that gives our Money the Sancti<g ref="char:EOLhyphen"/>on</hi>
+               <note place="margin">Note.</note> 
+               <hi>on or Valuation, (except the Clip'd Money now in Uſe, and that in ſome meaſure keeps up thro' Cuſtom and Neceſſity: And for this Reaſon, becauſe you can have no ſuch made: For if you carry your Bullion to the</hi> Mint, <hi>they muſt make it of lawful Weight and Fineneſs: Cou'd you have it coin'd of the Weight of our Clip'd Money, you wou'd ſoon find <g ref="char:punc">▪</g>twou'd be reſpected as no more than the Value of the Bullion wher<g ref="char:EOLhyphen"/>of it is made) For Money is valuable by the Bullion wherof it is made; and Bullion according to the Reputation it hath in the World.</hi>
+            </p>
+            <p>And whereas 'tis alledged that we ſhall ſoon be <milestone type="tcpmilestone" unit="unspecified" n="2"/> ſupplied with Plenty of Money, which I agree will naturally follow; but I affirm over Plenty of Mo<g ref="char:EOLhyphen"/>ney (unleſs of full Value with other Commodities) is as bad a Miſchief as too little, and I will preſently prove it a worſe Miſchief: For were it as plenty as the Stones in the Street, no body would value it, nei<g ref="char:EOLhyphen"/>ther would it be a Recompence for a Man's Labour nor any Commodity; 'tis the Scarcity in one Senſe makes it ſo valuable.</p>
+            <p>
+               <pb n="6" facs="tcp:35011:5"/>Pray let us look back for 150 Years, and compare the Value of Money then with the Value now, you may find</p>
+            <p>
+               <hi>Anno</hi> 1531, <hi>viz.</hi> the 23d. <hi>H.</hi> 8<g ref="char:punc">▪</g> there was a great Feaſt kept by the Serjeants at Law, and the Bill of Fare was 24 great Beeves of <hi>26s. 8d.</hi> apiece, the Car<g ref="char:EOLhyphen"/>caſs of an Ox <hi>24s.</hi> 100 fat Muttons of <hi>2s. 10d.</hi> 51 great Veals of <hi>4s. 8d.</hi> apiece, and other things anſwerable; and it was provided in the 1ſt. and 2d. of <hi>P.</hi> and <hi>M.</hi> by Act of Parliament, that Wheat ſhould not be exported if it exceeded the common Price of <hi>6s. 8d.</hi> the Quarter, nor Barley <hi>3s. per</hi> Quarter, <hi>&amp;c.</hi> This was but about 141 Years ſince. 'Tis plain Money was the ſame then it is now, or ra<g ref="char:EOLhyphen"/>ther not ſo good; but was then 8 times the Value it is now: Conſider but the Reaſon, and you muſt a<g ref="char:EOLhyphen"/>gree Money is more plentiful now than it was then, and this is the only Reaſon. Conſider who are the Loſers, and you muſt agree that Men of Eſtates are the Loſers by this Plenty of Money. For Inſtance, the free Farm Rents, Copy hold and Freehold Rents are the ſame now they were then, and Money the ſame. A Mannor of <hi>50l. per Annum.</hi> Quitt Rents then is equivolent to <hi>400l. per Annum</hi> now. I need not argue this Point farther, only deſire you to obſerve that Money in its own Nature leſſens in Value conſiderable, as Silver becomes more plen<g ref="char:EOLhyphen"/>ty
+<pb n="7" facs="tcp:35011:5"/>
+in the world; I may ſay two <hi>per Cent. per Ann.</hi> of the Product, which few Men conſider.</p>
+            <p>But the Vulgar Opinion is, that let us have but Money Plenty and we ſhall drive a great Trade, and by that Means imploy our Poor, and they conclude we can never have too much Money.</p>
+            <p>This is a common Error, few Men that I have met with, but have granted it without examina<g ref="char:EOLhyphen"/>tion.</p>
+            <p>But I averr quite the contrary, <hi>viz.</hi> That over plen<g ref="char:EOLhyphen"/>ty of Money is the certain deſtruction of Trade.</p>
+            <p>For if Money be plenty, other things and the neceſſities of Life muſt be dear, as alſo Mens Labour; this muſt naturally follow, for many People will not labour if Money and the Neceſ<g ref="char:EOLhyphen"/>ſities of Life may be had without: this muſt be granted; the certain conſequence is, that we can not afford the Products of their Labour ſo Cheap as our Neighbours do. As for Example.</p>
+            <p>Cloth, Searge, Bayes and other Commodities, which are now wrought up for <hi>100l.</hi> will not perhaps (if Money be proportionable more plen<g ref="char:EOLhyphen"/>ty) be wrought up for <hi>120l.</hi> it cannot be i<g ref="char:EOLhyphen"/>magin'd ours will ſell for <hi>120l.</hi> when they can have as good 20 <hi>per Cent.</hi> Cheaper from <hi>Holland,</hi> and other Places; ſo here's an End of your <hi>Streights</hi> Trade, and conſequently of all the Staple Com<g ref="char:EOLhyphen"/>modities
+<pb n="8" facs="tcp:35011:6"/>
+in this Kingdom, and when the Current of Buſineſs is got into another Channel, 'tis not an eaſie Matter to regain it, and it will not be regain'd 'till we have reduced our Labours at under Rates, and can under-ſell our Neighbours. 'Tis the want of Money makes the old Wife trot, and the ſcar<g ref="char:EOLhyphen"/>city that makes it ſo valuable.</p>
+            <p>But beſides this, if Money be made leſs than Value, before Trade in all reſpects be brought to a proportionable Rate, we may expect it to be counterfeited, and falſified to a great Degree; and that before we are well cured of this Evil, we may expect to find our ſelves under as bad or worſe Circumſtances, upon the ſame Account; for the Forger will not only have the Advantage of making it leſs than Value, but may by adul<g ref="char:EOLhyphen"/>terating the Silver, diminiſh it alſo in Fineneſs, and ſo reſemble our true Stamp, that it may be hard for the Eye to diſtinguiſh the Difference, and yet have Profit to anſwer his Expectations,</p>
+            <p>And 'tis reply'd, it will be exported if of full Value; this is alſo an Error: perhaps ſome may be exported, but when it is become ſcarce here, and that it will go further, and buy more Com<g ref="char:EOLhyphen"/>modities in our Markets, then in others, the Mer<g ref="char:EOLhyphen"/>chants will ſoon bring it back in <hi>Specie.</hi>
+            </p>
+            <p>
+               <pb n="9" facs="tcp:35011:6"/>But ſuppoſe juſt as much as Neceſſity requires, and no more, be coin'd; I confeſs this will do the Jobb, but then it concerns you to find a means to ſecure us againſt theſe Inconveniencies; firſt a<g ref="char:EOLhyphen"/>gainſt falſifying and counterfeiting our Money, and to ſecure the Mint, that it may by its Scarci<g ref="char:EOLhyphen"/>ty keep up its Reputation; either of which Inconveni<g ref="char:EOLhyphen"/>ences, I doubt, is paſt Humane Invention to make Laws that will ſecure us againſt.</p>
+            <p>I find a great ſtupidity and dullneſs of Appre<g ref="char:EOLhyphen"/>henſion, in ſome Men, about the Valuation of our Money, and with great Difficulty have I made them ſenſible of this Error, <hi>viz.</hi> That a Crown's a Crown, and if it goes ſo, 'tis no matter if it were Leather, concluding that all things are Valu<g ref="char:EOLhyphen"/>able by our Money, and Money by its ſelf: ſo I will only add this Example to expain this Fallacy to unthinking Men; for I think it is ſufficiently demonſtrated before. Suppoſe the King and Par<g ref="char:EOLhyphen"/>liament ſhould ordain Copper Money of the ſize of a Crown-Piece, ſhould go for a Crown, and the Mint open as it is now, That whoever brings Cop<g ref="char:EOLhyphen"/>per ſhall <hi>gratis</hi> have it coin'd into Crown-Pieces; this you may call a Crown, will pay Rents and Debts as a Crown, but ſhall never pay a Man's Wages, nor puchaſe any Commodity further than the Value of the Copper, becauſe a Man may
+<pb n="10" facs="tcp:35011:7"/>
+purchaſe a Pound of Copper for a Day's Labour, or for the Value of 15 <hi>d.</hi> in any Commodity, and carrying it to the Mint may have 5 <hi>l.</hi> made of it: Pardon this Digreſſion.</p>
+            <p>So that I hope, and am perſwaded, it will be concluded by all; Firſt, that we are under a Ne<g ref="char:EOLhyphen"/>ceſſity of having our Coin amended, with all ima<g ref="char:EOLhyphen"/>ginable Expedition.</p>
+            <p>-<hi>Secondly,</hi> That it be made of equal Weight and Fineneſs with our preſent Mill'd Money.</p>
+            <p>
+               <hi>Thirdly,</hi> That the Price of Silver be fixed, to bear even Pace with our Coin, or ſomething under. And that a ſevere Prohibition againſt exporting it, 'till this Evil be remedied, which may well be done, by laying the Penalty of Ten times the Va<g ref="char:EOLhyphen"/>lue, half to the Proſecutor, and half to the King, and a Penalty upon thoſe that conceal it.</p>
+            <p>And for the <hi>Modus</hi> Mr. <hi>Lowndes</hi> hath laid down a very practicable Method, <hi>viz.</hi> by ſeveral Mints<g ref="char:punc">▪</g> going at the ſame time: I will not repeat his Ar<g ref="char:EOLhyphen"/>guments, but obſerve there are only Two things wanting to effect it, <hi>viz.</hi> The Bullion, and a Fund, both which I will project and ſupply.</p>
+            <p>1. There is much Colledge-Plate in the Univer<g ref="char:EOLhyphen"/>ſities, and in other Guilds and Fraternities, which lies as it were in a dead Hand, and no body the better for it: what if that were ordered to the
+<pb n="11" facs="tcp:35011:7"/>
+Mint, ſaving what is neceſſary for their Uſe, (it may be done in a Commendatory not a Com<g ref="char:EOLhyphen"/>pulſatory Way) and the Intereſt of the Money which it comes to, to be paid out of ſome part of the King's Revenue, in Augmentation of the reſpective Fellowſhips and Scholarſhips and Pro<g ref="char:EOLhyphen"/>prietaries, here is every body the Better, and no body the Worſe for it. All the Plate uſed in publick Houſes ſhall be brought to the Mint, and the Owners ſhall receive the Value in pre<g ref="char:EOLhyphen"/>ſent Money, which if the Owners ſhall neglect or refuſe to do, they ſhall be deprived of their Li<g ref="char:EOLhyphen"/>cences, and diſabled for ever after keeping a publick Houſe, or ſelling Wine, Beer, Ale, Sider, or Brandy by retail, <hi>&amp;c.</hi>
+            </p>
+            <p>That the Price of Silver be ſet, <hi>viz.</hi> that no Silver, Directly nor Indirectly, be ſold for more than <hi>4s.</hi> and <hi>10d. per</hi> Ounce Sterling, and a Penalty upon all thoſe that ſhall ſell for or demand more, Faſhion excepted.</p>
+            <p>This alone will bring Silver enough to the Mint, and I am not of Mr. <hi>Lowndes</hi>'s Opinion, that here is ſo great a Want of Silver in this Na<g ref="char:EOLhyphen"/>tion; for I am perſwaded, here is as much Sil<g ref="char:EOLhyphen"/>ver in this Nation, now, as ever there was ſince
+<pb n="13" facs="tcp:35011:8"/>
+the World began; for there is ſcarce a publick or private Houſe, how Mean ſo ever, but have Plate more or leſs, which within my Remem<g ref="char:EOLhyphen"/>brance of 20 or 25 Years was nothing near ſo Common.</p>
+            <p>
+               <hi>Then for a Fund; Suppoſe,</hi>
+            </p>
+            <p>Every Batchellor, that is 21 Year old, or up<g ref="char:EOLhyphen"/>wards, and worth 300 <hi>l.</hi> or more, be obliged to pay 20 <hi>s.</hi> a Quarter, for Five Years.</p>
+            <p>If worth 500 <hi>l.</hi> or above, to pay 40 <hi>s.</hi> a Quar<g ref="char:EOLhyphen"/>ter, for Five Years.</p>
+            <p>If worth 1000 <hi>l.</hi> or more to pay 4 <hi>l.</hi> a Quar<g ref="char:EOLhyphen"/>for Five Years.</p>
+            <p>Every married Man, that hath been married Two Years, or upwards, and no Child nor Chil<g ref="char:EOLhyphen"/>dren living, to pay as Batchellors.</p>
+            <p>Every Widow and Widower, that hath no Child nor Children living, to pay as Batchellors above.</p>
+            <p>
+               <hi>This to be renew'd, altered, corrected, and amended, by Aſſeſſors every Quarter as Occaſion or Circumstances may alter or require.</hi>
+            </p>
+            <p>Taxes are certainly (in my Judgment) beſt laid, where they can be beſt born, and leaſt felt, and certainly this can hurt no Man. <hi>I beg Pardon if I have lanch<g ref="char:punc">▪</g>d too far.</hi>
+            </p>
+            <p>
+               <pb n="14" facs="tcp:35011:8"/>
+               <hi>For Guineas, If the Houſe of Commons would be pleaſed to addreſs to the King, that no more might be coyn'd, till the Houſe had duly conſidered that matter, it would prevent the growing Miſchief, and Gold being im<g ref="char:EOLhyphen"/>ported at this rate, which is to our certain Loſs.</hi>
+            </p>
+         </div>
+         <div type="postscript">
+            <head>POSTSCRIPT.</head>
+            <p>I NO ſooner had finiſh'd this, but there was a Paper handed to me, Stiled, <hi>A Letter from</hi> Amſterdma, which I take to be worth the reading, for we may thereby ſee, through our ſelves and our own Circumſtances, in the Matters herein treated off.</p>
+            <p>And whereas it is therein alledg'd, that we are in Debt to them, and our other Neighbours, for our Gold, which they have Trip'd upon us at extravagant Rates, that we muſt pay them, and they are not ſuch Fools as to take our clipp'd Money, nor Guineas more than the Antient Worth, and real Value, and that we muſt loſe 20 <hi>per Cent.</hi> in our Remittances, and argues for Money to be made of full Value.</p>
+            <p>I receiv'd alſo an Anſwer to it (but I Queſtion whether it be printed) that true it is if we make our Money of full Value, we muſt loſe 20 <hi>per Cent.</hi> in the return, and therefore propoſeth it of 3 / 4 Value; and Guineas to be ſettled at 30 <hi>s.</hi> then ſaith he, you muſt take our Mo<g ref="char:EOLhyphen"/>ney if you will be Paid, and we ſhall go to Market as cheap as you: For if our Cloth coſt 10 <hi>l.</hi> which in Fact is but 7 <hi>l.</hi> 10 <hi>s.</hi> you cannot propoſe it at a cheaper Rate.</p>
+            <p>Both which are well argued, and the Notions clear and undoubtedly True; and 'tis moſt certain that we are
+<pb facs="tcp:35011:9"/>
+under a <hi>Dilemma.</hi> Loſs and Inconveniences attending us on either ſide: but let us balance the one with the other, and you will find thoſe propoſed by the <hi>Dutch-Man</hi> to be nothing near ſo grievous by 99 Parts in 100; for,</p>
+            <p>Some Debts may be contracted by our Merchants for this Gold, which we have bought too Dear, and in pay<g ref="char:EOLhyphen"/>ing it<g ref="char:punc">▪</g> 'tis certain we muſt loſe 20 or 25 <hi>per Cent.</hi> but to oblige the Merchants to whom we may attribute this Loſs, in ſome meaſure, and who have ſhar'd in the Spoil, and to enable them to pay their Debts, at an eaſie Rate, and to their Advantage; Muſt we releaſe a quarter Part of the Debts of all the Subjects of this Kingdom? Muſt all Rents of Lands and Bargains executed, ſink at one Daſh, compleatly, a quarter part; which muſt be the Caſe if we leſſen our Money to that Proportion?</p>
+            <p>'Tis True, amongſt our ſelves, it will light much on the poorer Sort, and labouring People, who will not very ſoon underſtand the Cheat; and they have gain'd upon us in the Value of their Wages of late Years: a Shilling may be a Shilling to them, but when they are poſſeſt that 'tis but 9 <hi>d.</hi> what will become of your an<g ref="char:EOLhyphen"/>tient Rents, many of them I doubt will not be worth the collecting?</p>
+            <p>So that I conceive the Inconvenience you would a<g ref="char:EOLhyphen"/>void, bears no proportion with thoſe we ſhall inevitably fall under<g ref="char:punc">▪</g> if Money be made Leſs.</p>
+            <p>Note, <hi>It may be preſum'd our Merchants have not imported much Silver ſince the Golden Trade came up, which per<g ref="char:EOLhyphen"/>haps, as Mr.</hi> Lowndes <hi>obſerves, may have occaſioned a ſcarcity<g ref="char:punc">▪</g> of foreign Bullion at preſent; but if the Mint be ſtopt upon Guineas, I am perſwaded there will as much Gold go back in Specie, as will pay their Debts.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:35011:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
